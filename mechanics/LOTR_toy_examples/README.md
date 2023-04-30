@@ -6,8 +6,9 @@ To evaluate the proposed actuation module, two different toy examples are used.
 ## Toy Example: Hanging Weight
 The first toy example is simply a system of pulleys. 
 
-![](First_Toy_Example/images/toy_example_1.jpg)
-*First toy example*
+![Figure 1](First_Toy_Example/images/toy_example_1.jpg)
+
+*Figure 1: First toy example*
 
 ---
 ### Trivia
@@ -17,7 +18,6 @@ LOTR stands for Lord of the Ring, in reference to the title of the paper. Yes, t
 
 
 ---
-
 ### More Information
 
 [OpenCR Project](http://opencontinuumrobotics.ca)
@@ -30,7 +30,7 @@ LOTR stands for Lord of the Ring, in reference to the title of the paper. Yes, t
 
 --- 
 ### Authors
-Reinhard Grasmann
+Reinhard M. Grasmann
 
 ### License
 BSD 3-Clause License
