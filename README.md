@@ -27,11 +27,11 @@ WIP
 
 [OpenCR Project](http://opencontinuumrobotics.ca)
 <br/>
-[Back to Top of Page](README.md)
+[Back to Top of Page]()
 <br/>
-[Electronic Overview](https://github.com/ContinuumRoboticsLab/OpenCR-Hardware/blob/main/electronics/README.md)
+[Electronic Overview](electronics)
 <br/>
-[Hardware Overview](https://github.com/ContinuumRoboticsLab/OpenCR-Hardware/blob/main/mechanics/README.md)
+[Hardware Overview](mechanics)
 
 ### Authors
 
