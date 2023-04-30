@@ -11,21 +11,17 @@ A paper describing the actuation module and three different derived prototypes c
 
 ## Electronics
 
----
-
 WIP
 
 
 ## Mechanics
-
----
 
 WIP
 
 
 ## More Information
 
----
+
 
 ### Further Links
 
