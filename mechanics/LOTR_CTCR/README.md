@@ -53,6 +53,7 @@ WIP
 
 ### Bill of Materials for Concentric Tube Continuum Robot Prototype
 
+<img src="images/CTCR_catchy_image.png" alt="catchy overview" width="450"/>
 
 | Part Name            | Quantity | Notes                                                           | File/Link                                                                                            |  
 |----------------------|----------|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------|   
