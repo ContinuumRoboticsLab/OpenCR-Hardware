@@ -10,30 +10,50 @@ The first toy example is simply a system of pulleys.
 
 *Figure 1: First toy example*
 
----
-### Trivia
-
-LOTR stands for Lord of the Ring, in reference to the title of the paper. Yes, the movie.
 
 
+## More Information
 
----
-### More Information
+### Further Links
 
 [OpenCR Project](http://opencontinuumrobotics.ca)
 <br/>
 [Back to Top of Page](README.md)
 <br/>
-[Electronic Overview](https://github.com/ContinuumRoboticsLab/OpenCR-Hardware/blob/main/electronics/README.md)
+[Electronic Overview](electronics/README.md)
 <br/>
-[Hardware Overview](https://github.com/ContinuumRoboticsLab/OpenCR-Hardware/blob/main/mechanics/README.md)
+[Hardware Overview](mechanics/README.md)
 
---- 
 ### Authors
-Reinhard M. Grasmann
+
+Authors are listed in alphabetic order.
+
+- Puspita Triana Dewi
+- Reinhard M. Grassmann
+
 
 ### License
+
 BSD 3-Clause License
 
-### Copyright
 Copyright (c) 2023, Continuum Robotics Laboratory, University of Toronto
+
+
+### BibTeX
+
+This design is part of the [OpenCR Project](http://www.opencontinuumrobotics.ca/).
+If you want to reference this design, you can use the following citation:
+
+```bibtex
+    @article{GrassmannBurgner-Kahrs_et_al_arXiv_2023,
+        title       =   {Open Continuum Robotics – One Actuation Module to Create them All},
+        author      =   {Grassmann, Reinhard M. and Shentu, Chengnan and Hamoda, Taqi and Triana Dewi, Puspita and Burgner-Kahrs, Jessica},
+        journal     =   {arXiv preprint arXiv:2304.11850},
+        year        =   {2023},
+        doi         =   {10.48550/arXiv.2304.11850}
+    }
+```
+
+### Trivia
+
+LOTR stands for Lord of the Ring, in reference to the title of the paper. Yes, the movie.
