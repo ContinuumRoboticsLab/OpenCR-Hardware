@@ -85,7 +85,3 @@ If you want to reference this design, you can use the following citation:
         doi         =   {10.48550/arXiv.2304.11850}
     }
 ```
-
-### Trivia
-
-LOTR stands for Lord of the Ring, in reference to the title of the paper. Yes, the movie.
