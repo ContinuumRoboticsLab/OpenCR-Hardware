@@ -62,13 +62,13 @@ WIP
 | Front_Frame          | 1        | 3D printed part ([drawing](drawings/Front_Frame_drawing.pdf))   | [STL file](stl_files/Front_Frame.stl)                                                                |
 | Cap Gear             | 1        | 3D printed part ([drawing](drawings/Cap_Gear_8mm_drawing.pdf))  | [STL file](stl_files/Cap_Gear_8mm.stl)                                                               |
 | Tube Cap             | 1        | 3D printed part ([drawing](drawings/Tube_coppling_drawing.pdf)) | [STL file](stl_files/Tube_Cap.stl)                                                                   |
-| Rail                 | 1        | Off-the-shelf component                                         | [External Link](https://www.igus.eu/product/732?artNr=WS-10-40)                                      |
-| Pillow Block         | 6        | Off-the-shelf component                                         | [External Link](https://www.igus.ca/product/1165?artNr=WJ200UM-01-10-AL)                             |
-| Gear Rack            | 1        | Off-the-shelf component                                         | [External Link](https://www.mcmaster.com/2662N57/)                                                   |
-| Gear                 | 1        | Off-the-shelf component                                         | [External Link](https://www.mcmaster.com/2662N42/)                                                   |
-| M6x14 Screw          | 20       | Off-the-shelf component                                         | [External Link](https://www.mcmaster.com/91290A319/)                                                 |
-| M6 Nut               | 8        | Off-the-shelf component                                         | [External Link](https://www.mcmaster.com/90593A005/)                                                 |
-| Pre-curved NiTi Tube | 1        | Off-the-shelf component                                         | [External Link](https://www.euroflex.de/en/index.html)                                               |
+| Rail                 | 1        | Igus (P/N WS-10-40))                                            | [External Link](https://www.igus.eu/product/732?artNr=WS-10-40)                                      |
+| Pillow Block         | 6        | Igus (P/N WJ200UM-01-10-AL)                                     | [External Link](https://www.igus.ca/product/1165?artNr=WJ200UM-01-10-AL)                             |
+| Gear Rack            | 1        | McMaster-Carr (P/N 2662N57)                                     | [External Link](https://www.mcmaster.com/2662N57/)                                                   |
+| Gear                 | 1        | McMaster-Carr (P/N 2662N42)                                     | [External Link](https://www.mcmaster.com/2662N42/)                                                   |
+| M6x14 Screw          | 20       | McMaster-Carr (P/N 91290A319)                                   | [External Link](https://www.mcmaster.com/91290A319/)                                                 |
+| M6 Nut               | 8        | McMaster-Carr (P/N 90593A005)                                   | [External Link](https://www.mcmaster.com/90593A005/)                                                 |
+| Pre-curved NiTi Tube | 1        | Euroflex                                                        | [External Link](https://www.euroflex.de/en/index.html)                                               |
 
 
 
