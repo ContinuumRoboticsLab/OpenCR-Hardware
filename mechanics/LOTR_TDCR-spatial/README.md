@@ -3,6 +3,10 @@
 
 
 
+<img src="images/LOTR_TDCR.png" alt="catchy overview" width="300"/>
+<img src="images/Classification_TDCR.png" alt="classification overview" width="300"/>
+
+*Figure: Image of a TDCR with three degrees of freedom. Right images shows a classification of the component. (cyan) actuation modules, (red) frames, (green) evaluation boards, and (blue) consumer pc with power supply.*
 
 
 ## Electronics Overview
