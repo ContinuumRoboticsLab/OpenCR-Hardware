@@ -10,8 +10,10 @@ We refer to the survey by [Nwafor, Rabenorosoa et al. (T-RO 2023)](https://doi.o
 We developed a torque-controlled CTCR with low complexity.
 It is shown in the image below.
 
+<p float="left">
 <img src="images/LOTR_CTCR.jpg" alt="catchy overview" width="300"/>
 <img src="images/Classification_CTCR.png" alt="classification overview" width="300"/>
+</p>
 
 *Figure: Image of a CTCR with two carriages. Right images shows a classification of the component. (cyan) actuation modules, (red) frames, (yellow) guiding rail, (green) evaluation boards, and (blue) consumer pc with power supply.*
 
