@@ -11,12 +11,19 @@ A paper describing the actuation module and three different derived prototypes c
 
 ## Electronics
 
-WIP
+
+| TI Evaluation Board                                                                                                       | Consumer PC | Details Wiring |  
+|---------------------------------------------------------------------------------------------------------------------------|-------------|----------------|   
+| <a href="electronics/Ti_LaunchPad/README.md"><img src="electronics/Ti_LaunchPad/images/TI_launchpad.jpg" width="300"></a> | WIP         | WIP            |
 
 
 ## Mechanics
 
-WIP
+
+| Concentric Tube Continuum Robot (LOTR CTCR)                                                                             | spatial Tendon-Driven Continuum Robot (LOTR TDCR)                                                                                    | parallel Tendon-Driven Continuum Robot (LOTR TDCR)                                                                                |  
+|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|   
+| <a href="mechanics/LOTR_CTCR/README.md"><img src="mechanics/LOTR_CTCR/images/LOTR_CTCR-first-page.jpg" width="300"></a> | <a href="mechanics/LOTR_TDCR-spatial/README.md"><img src="mechanics/LOTR_TDCR-spatial/images/LOTR_TDCR-spatial.jpg" width="300"></a> | <a href="mechanics/LOTR_TDCR-planar/README.md"><img src="mechanics/LOTR_TDCR-planar/images/LOTR_TDCR-planar.jpg" width="300"></a> |
+
 
 
 ## More Information
