@@ -1,5 +1,14 @@
 # Planar Tendon-Driven Continuum Robot Prototype
 
+A parallel continuum robot (PCR) tries to combine the world of rigid parallel robots and continuum robots.
+This one is a planar PCR, where the beam is tendon-actuated.
+It has two bases rigid linked at the distal end of the beam.
+
+<img src="images/LOTR_PCR.png" alt="catchy overview" width="300"/>
+<img src="images/Classification_PCR.png" alt="classification overview" width="300"/>
+
+*Figure: Image of one base of the PCR. Right images shows a classification of the component. (cyan) actuation modules, (red) frames, (green) evaluation boards, (yellow) guiding rail, and (blue) consumer pc with power supply.*
+
 
 ## Electronics Overview
 
