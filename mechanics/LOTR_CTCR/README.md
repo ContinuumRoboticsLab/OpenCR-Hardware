@@ -45,12 +45,6 @@ WIP
 
 WIP
 
-
-### Step-by-Step Instructions
-
-WIP
-
-
 ### Bill of Materials for Concentric Tube Continuum Robot Prototype
 
 <img src="images/CTCR_catchy_image.png" alt="catchy overview" width="450"/>
@@ -69,6 +63,38 @@ WIP
 | M6x14 Screw          | 20       | McMaster-Carr (P/N 91290A319)                                   | [External Link](https://www.mcmaster.com/91290A319/)                                                 |
 | M6 Nut               | 8        | McMaster-Carr (P/N 90593A005)                                   | [External Link](https://www.mcmaster.com/90593A005/)                                                 |
 | Pre-curved NiTi Tube | 1        | Euroflex                                                        | [External Link](https://www.euroflex.de/en/index.html)                                               |
+
+
+## Step-by-Step Instructions
+
+Step 1: Assemble the [gear rack](https://www.mcmaster.com/2662N57/) onto the [rail](https://www.igus.eu/product/732?artNr=WS-10-40).
+
+<img src="images/Prototype_CTCR_Assemby_Step_1.gif" width="575">
+
+Step 2: Assemble 4 [pillow blocks](https://www.igus.ca/product/1165?artNr=WJ200UM-01-10-AL) onto the rail. 
+
+<img src="images/Prototype_CTCR_Assembly_Step_2.gif" width="575">
+
+Step 3: Assemble the [main frame](stl_files/Main_Frame.stl) to the rail system with 8 [M6x14 screws](https://www.mcmaster.com/91290A319/).
+
+<img src="images/Prototype_CTCR_Assembly_Step_3.gif" width="575">
+
+Step 4: Assemble 2 [actuation modules](https://github.com/ContinuumRoboticsLab/OpenCR-Hardware/tree/main/mechanics/actuation_module) to the main frame with 4 [M6x14 screws](https://www.mcmaster.com/91290A319/) and 4 [M6 nuts](https://www.mcmaster.com/90593A005/) for each actuation module.
+
+<img src="images/Prototype_CTCR_Assembly_Step_4.gif" width="575">
+
+Step 5: Assemble the [gear](https://www.mcmaster.com/2662N42/) to the rear actuation module using the [cap gear](stl_files/Cap_Gear_8mm.stl).
+
+<img src="images/Prototype_CTCR_Assembly_Step_5.gif" width="575">
+
+Step 6: Assemble the [front frame](stl_files/Front_Frame.stl) to the rail system with 8 [M6x14 screws](https://www.mcmaster.com/91290A319/).
+
+<img src="images/Prototype_CTCR_Assembly_Step_6.gif" width="575">
+
+Step 7: Assemble the [pre-curved Nitinol tube](https://www.euroflex.de/en/index.html) to the front actuation module using the [tube cap](stl_files/Tube_Cap.stl).
+
+<img src="images/Prototype_CTCR_Assembly_Step_7.gif" width="575">
+
 
 
 
