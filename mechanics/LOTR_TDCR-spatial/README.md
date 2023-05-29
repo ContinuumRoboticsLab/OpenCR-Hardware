@@ -1,7 +1,8 @@
 # Spatial Tendon-Driven Continuum Robot Prototype
 
-
-
+A tendon-driven continuum robot (TDCR) is composed of a flexible backbone along which tendons are guided using spacer disks, these last ones being fixed to the backbone. 
+It is actuated by changing the tendons’ length and applying tendon tensions, which cause a reversible deformation of the backbone.
+This one has one [type-II segment](https://www.frontiersin.org/articles/10.3389/frobt.2022.873446/full) and three tendons.
 
 <img src="images/LOTR_TDCR.png" alt="catchy overview" width="300"/>
 <img src="images/Classification_TDCR.png" alt="classification overview" width="300"/>
