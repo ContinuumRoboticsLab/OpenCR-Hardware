@@ -21,22 +21,17 @@ WIP
 
 WIP
 
-### 3D Printed Parts
+## 3D Printed Parts
 
 WIP
 
 
-### Off-the-shelf Components
+## Off-the-shelf Components
 
 WIP
 
 
-### Step-by-Step Instructions
-
-WIP
-
-
-### Bill of Materials for Spatial Tendon-Driven Continuum Robot Prototype
+## Bill of Materials for Spatial Tendon-Driven Continuum Robot Prototype
 
 
 <img src="images/TDCR-spatial_catchy_image.png" alt="catchy overview" width="400"/>
@@ -62,6 +57,51 @@ WIP
 | M6 Nut               | 12       | McMaster-Carr (P/N 90593A005)                                                  | [External link](https://www.mcmaster.com/90593A005/)                                                 |
 
 
+## Step-by-Step Instructions
+
+Step 1: Assemble 2 [pulleys](https://www.amazon.ca/V623ZZ-Groove-Bearing-Carbon-3x12x4mm/dp/B07CV8CW1F) into the puley [holder](stl_files/BasePlatform_PullyHolder.stl) with [pulley shaft](stl_files/BasePlatform_PulleyShaft). Do this for 3 sets of pulley systems.
+
+<img src="images/TDCR_Spatial_Step_1.gif" width="575">
+
+Step 2: Assemble the pulley system to the bottom side of the [base platform](stl_files/BasePlatform.stl) using [M6 screws](https://www.mcmaster.com/93070A139/) and [M6 nuts](https://www.mcmaster.com/90593A005/).
+
+<img src="images/TDCR_Spatial_Step_2.gif" width="575">
+
+Step 3: Assemble the [base platform](stl_files/BasePlatform.stl) to the [base platform wall](stl_files/BasePlatform_wall.stl) using [M6 screws](https://www.mcmaster.com/93070A139/) and [M6 nuts](https://www.mcmaster.com/90593A005/).
+
+<img src="images/TDCR_Spatial_Step_3.gif" width="575">
+
+Step 4: Insert the [inner disk](stl_files/FSD_bearing_inner.stl) into the [end disk](stl_files/FSDzero_20mm.stl).
+
+<img src="images/TDCR_Spatial_Step_4.gif" width="575">
+
+Step 5: Insert the [inner disk](stl_files/FSD_bearing_inner.stl) into the [bearing](https://www.mcmaster.com/57155K438/). Do this for 11 sets of bearings.
+
+<img src="images/TDCR_Spatial_Step_5.gif" width="575">
+
+Step 6: Insert the bearing into 10 [disks](stl_files/FSD_20mm_bearing.stl) and 1 [disk without dent](stl_files/FSD_20mm_bearing_withoutDent.stl).
+
+<img src="images/TDCR_Spatial_Step_6.gif" width="575">
+
+Step 7: Arrange the disks to the backbone in equidistant. The arrangement should be (from top to bottom) end disk --> 10 disks --> disk without dent. Make sure that the tendon holes are in a straight line from top to the bottom.
+
+<img src="images/TDCR_Spatial_Step_7.gif" width="575">
+
+Step 8: Route the tendon along the tendon holes. Tie a knot at the end disk as a determination point. Do this for 3 sets of tendons.
+
+<img src="images/TDCR_Spatial_Step_8.gif" width="575">
+
+Step 9: Assemble the continuum robot to the base platform using [M6 screws](https://www.mcmaster.com/93070A139/) and [M6 nuts](https://www.mcmaster.com/90593A005/).
+
+<img src="images/TDCR_Spatial_Step_9.gif" width="575">
+
+Step 10: Assemble the backbone to the [actuation module](https://github.com/ContinuumRoboticsLab/OpenCR-Hardware/tree/main/mechanics/actuation_module) using [tube coupling](stl_files/Tube_coppling_1mm.stl).
+
+<img src="images/TDCR_Spatial_Step_10.gif" width="575">
+
+Step 11: Attach each tendon to one [actuation module](https://github.com/ContinuumRoboticsLab/OpenCR-Hardware/tree/main/mechanics/actuation_module) though the pulley system.
+
+<img src="images/TDCR_Spatial_Step_11.gif" width="575">
 
 ## More Information
 
