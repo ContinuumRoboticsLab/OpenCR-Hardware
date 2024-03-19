@@ -60,12 +60,14 @@ This repository is part of the [OpenCR Project](http://www.opencontinuumrobotics
 If you want to reference this project, you can use the following citation:
 
 ```bibtex
-    @article{GrassmannBurgner-Kahrs_et_al_arXiv_2023,
+    @article{GrassmannBurgner-Kahrs_et_al_Frontiers_2023,
         title       =   {Open Continuum Robotics – One Actuation Module to Create them All},
         author      =   {Grassmann, Reinhard M. and Shentu, Chengnan and Hamoda, Taqi and Triana Dewi, Puspita and Burgner-Kahrs, Jessica},
-        journal     =   {arXiv preprint arXiv:2304.11850},
-        year        =   {2023},
-        doi         =   {10.48550/arXiv.2304.11850}
+        journal     =   {Frontiers in Robotics and AI},
+        volume      =   {11},
+        pages       =   {1272403},
+        year        =   {2024},
+        doi         =   {10.3389/frobt.2024.1272403}
     }
 ```
 We took great inspiration from the [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/), where efforts are made to build cost-efficient actuators for torque-controlled [legged robots](https://arxiv.org/abs/1910.00093) and [manipulators](https://arxiv.org/abs/2008.03596). 

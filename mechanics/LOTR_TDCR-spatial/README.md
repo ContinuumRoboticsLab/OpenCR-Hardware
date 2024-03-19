@@ -136,12 +136,14 @@ This design is part of the [OpenCR Project](http://www.opencontinuumrobotics.ca/
 If you want to reference this design, you can use the following citation:
 
 ```bibtex
-    @article{GrassmannBurgner-Kahrs_et_al_arXiv_2023,
+    @article{GrassmannBurgner-Kahrs_et_al_Frontiers_2023,
         title       =   {Open Continuum Robotics – One Actuation Module to Create them All},
         author      =   {Grassmann, Reinhard M. and Shentu, Chengnan and Hamoda, Taqi and Triana Dewi, Puspita and Burgner-Kahrs, Jessica},
-        journal     =   {arXiv preprint arXiv:2304.11850},
-        year        =   {2023},
-        doi         =   {10.48550/arXiv.2304.11850}
+        journal     =   {Frontiers in Robotics and AI},
+        volume      =   {11},
+        pages       =   {1272403},
+        year        =   {2024},
+        doi         =   {10.3389/frobt.2024.1272403}
     }
 ```
 
